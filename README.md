@@ -1,2 +1,2 @@
 # JMarketGear
- Expressive tool for testing trading strategies
+ Expressive tool for testing trading strategies.
